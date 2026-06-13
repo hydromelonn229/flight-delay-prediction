@@ -26,6 +26,13 @@ The trained pipelines were serialized and saved into the models folder.
 
 ### Step 6: Interactive Dashboard Implementation
 A Python Streamlit application was constructed to serve as the project interface, providing visual charts of the EDA findings and a prediction query form to calculate live route risk indexes.
+<img width="1762" height="791" alt="image" src="https://github.com/user-attachments/assets/22d5762b-33a1-4650-8e1c-e39a6c580ad5" />
+<img width="1732" height="703" alt="image" src="https://github.com/user-attachments/assets/0a336c09-7f2a-44d7-9b28-c024507e9e38" />
+<img width="1837" height="521" alt="image" src="https://github.com/user-attachments/assets/de34d347-199f-42c5-8820-9282083a1916" />
+<img width="1823" height="835" alt="image" src="https://github.com/user-attachments/assets/2c7428fe-6042-419c-821c-f6b6e78f3000" />
+
+
+
 
 ---
 
