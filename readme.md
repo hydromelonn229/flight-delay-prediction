@@ -46,7 +46,8 @@ A Python Streamlit application was constructed to serve as the project interface
      <img width="748" height="622" alt="image" src="https://github.com/user-attachments/assets/68fbb456-8c65-4a43-a248-88abfb7e8836" />
 
    - Random Forest achieved a higher Precision (70%) but lower Recall (42%).
-     <img width="578" height="382" alt="image" src="https://github.com/user-attachments/assets/38b36552-e945-4481-9285-612032569a09" />
+     <img width="775" height="623" alt="image" src="https://github.com/user-attachments/assets/2e918724-0eb9-433d-9660-576da4cfa3fa" />
+
 
    - The models present a direct operational trade-off depending on how false warnings are penalized.
 
